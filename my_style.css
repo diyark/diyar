@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'rudaw';
+    src: url(fonts/rudaw.ttf);
+    font-style: normal;
+    font-weight: 50;
+}
+.font-rudaw{
+	font-family: rudaw;
+}
+.my-container{
+	text-align: right;
+}
+.font-calibri{
+	font-family: calibri;
+}
+.text-color{
+	color: deepskyblue;
+}
+.my-form{
+	margin-top: 100px;
+}
+.my-header{
+	margin-top: 30px;
+}
+.my-img{
+	width: 50%;
+	margin-top:30px;
+	background: white;
+}
+.my-hr{
+	border: 2px solid;
+	color: deepskyblue;
+	width: 100%;
+	margin-top: 30px;
+}
+.bg-black{
+	background: black;
+}
